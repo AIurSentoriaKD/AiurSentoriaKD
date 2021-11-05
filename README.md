@@ -43,6 +43,6 @@
     <div align="center">
         <br>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=aiursentoriakd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-        <img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiursentoriakd&langs_count=5&theme=tokyonight&hide_border=true" alt="">
+        <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiursentoriakd&langs_count=5&theme=tokyonight&hide_border=true" alt="">
     </div>
 </body>
