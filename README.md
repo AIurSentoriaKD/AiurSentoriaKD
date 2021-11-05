@@ -23,7 +23,7 @@
             I like hot tea on cold afternoons... I read light novels and play a lot of visual novels on Nintendo Switch.
         </p>
     </div>
-    <br><br>
+    <br>
     <h1 align="center">Knowledge 📓</h1>
     <div>
         <p align="center"><img src="assets/ps.png" height="30">
