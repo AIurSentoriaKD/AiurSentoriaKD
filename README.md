@@ -26,11 +26,11 @@
     <br><br>
     <h1 align="center">Knowledge 📓</h1>
     <div>
-        <p align="center"><img src="assets/ps.png" height="50">
-            <img src="assets/ai.png" height="50">
-            <img src="assets/node.png" height="50">
-            <img src="assets/py.png" height="50">
-            <img src="assets/js.png" height="50">
+        <p align="center"><img src="assets/ps.png" height="30">
+            <img src="assets/ai.png" height="30">
+            <img src="assets/node.png" height="30">
+            <img src="assets/py.png" height="30">
+            <img src="assets/js.png" height="30">
         </p>
         <br>
         <p>
