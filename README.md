@@ -7,9 +7,6 @@
             <b>Name:</b> Diego, you can call me Aiur.
         </li>
         <li>
-            <b>Gender:</b> Male.
-        </li>
-        <li>
             <b>Hobbys:</b> Programming using various languages and tools. And an AI enthusiast.
         </li>
         <li>
