@@ -10,7 +10,7 @@
             <b>Gender:</b> Male.
         </li>
         <li>
-            <b>Hobbys:</b> Coding, databases, and all related to graphic design!
+            <b>Hobbys:</b> Programming using various languages and tools. And an AI enthusiast.
         </li>
         <li>
             <b>Working:</b> My DiscordBot called Taiga.
